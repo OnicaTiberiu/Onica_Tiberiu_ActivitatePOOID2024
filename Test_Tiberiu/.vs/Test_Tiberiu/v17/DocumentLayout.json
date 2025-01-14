@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHubFacultate\\Test_Tiberiu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78C4C1-A724-4062-81F8-9BE48644438E}|Test_Tiberiu\\Test_Tiberiu.vcxproj|C:\\GitHubFacultate\\Test_Tiberiu\\Test_Tiberiu\\Tiberiu_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD78C4C1-A724-4062-81F8-9BE48644438E}|Test_Tiberiu\\Test_Tiberiu.vcxproj|solutionrelative:Test_Tiberiu\\Tiberiu_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tiberiu_Test.cpp",
+              "DocumentMoniker": "C:\\GitHubFacultate\\Test_Tiberiu\\Test_Tiberiu\\Tiberiu_Test.cpp",
+              "RelativeDocumentMoniker": "Test_Tiberiu\\Tiberiu_Test.cpp",
+              "ToolTip": "C:\\GitHubFacultate\\Test_Tiberiu\\Test_Tiberiu\\Tiberiu_Test.cpp",
+              "RelativeToolTip": "Test_Tiberiu\\Tiberiu_Test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T19:22:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
